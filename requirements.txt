@@ -1,0 +1,7 @@
+The package requirements for this Python program are as follows:
+
+- requests
+- bs4 (BeautifulSoup)
+- pandas
+
+These packages are imported or used in the code, so they need to be installed in order for the program to run successfully.
